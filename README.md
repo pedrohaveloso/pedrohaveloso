@@ -1,11 +1,9 @@
-# Olá, eu sou o Pedro.
+# Saluton!
 
-<!-- 🌱 Ultimamente, gostando de programar com Elixir, Phoenix, Dart, PHP entre mais algumas. -->
+Eu sou o Pedro,
 
-🔨 Trabalhando com: PHP, JavaScript, HTML, CSS, Docker, Zend...
-- 💼 na [Próponto Soluções em Incentivo](https://www.linkedin.com/company/pr%C3%B3ponto/).
+Atualmente, Programador Web. Trabalhando com **PHP** e **JS**.
 
-👨‍💻 Cursando Análise e Desenvolvimento de Sistemas...
-- 🏫 na [Unimar | Universidade de Marília](https://unimar.br/).
+Amante de **Haskell** e **Elixir**.
 
-📫 Contato: contatopedrohalves@gmail.com.
+[contatopedrohalves@gmail.com](mailto:contatopedrohalves@gmail.com)
