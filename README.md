@@ -1,6 +1,6 @@
 # Saluton!
 
-Eu sou o Pedro,
+Eu sou o Pedro.
 
 Atualmente, Programador Web. Trabalhando com **PHP** e **JS**.
 
